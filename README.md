@@ -1,1 +1,1 @@
-### BMI Calculator 💪
+# 💪 BMI Calculator
